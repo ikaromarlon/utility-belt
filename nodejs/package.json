@@ -1,5 +1,9 @@
 {
   "name": "utility-belt",
   "version": "1.0.0",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^17.11.0",
+    "joi-to-json": "^4.2.0"
+  }
 }
